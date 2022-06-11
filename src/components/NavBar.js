@@ -1,7 +1,6 @@
 import React from "react";
 import "./Nav.css";
 import { Search, ShoppingCart } from "@mui/icons-material";
-import { ShoppingBasket } from "@mui/icons-material";
 
 const NavBar = () => {
   return (
